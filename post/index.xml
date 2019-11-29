@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Bessie Wong</title>
+    <link>https://bessiewong.github.io/post/</link>
+      <atom:link href="https://bessiewong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://bessiewong.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://bessiewong.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>My first blog post</title>
+      <link>https://bessiewong.github.io/post/first-post/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 -0800</pubDate>
+      <guid>https://bessiewong.github.io/post/first-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+
+&lt;p&gt;Hi everyone :)!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
